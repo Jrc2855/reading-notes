@@ -1,7 +1,7 @@
 ## Introduction
 Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. https://github.com/Jrc2855
 
-Code 102 Reading
+### Code 102 Reading
 
 - Reading 1
 - Reading 2
