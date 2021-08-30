@@ -1,5 +1,5 @@
-# Intro
-Hello. I'm John, blah blah blah here's the link. https://github.com/Jrc2855
+## Introduction
+Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. https://github.com/Jrc2855
 
 Code 102 Reading
 
@@ -12,20 +12,17 @@ Code 102 Reading
 - Reading 7
 - Reading 8
 
-## This is a Heading 2
-### This is a Heading 3
-
 ```python
 def new_func()":
   print('Hello World')
 ```
-> This is a quote from Someone. 
+> Believe you can, and you're halfway there. -Theodore Roosevelt 
 
-### Growth Mindset to me means
+### Growth Mindset to me means looking at new situations with the mentality of "I have the opportunity to see things changing right in front of me." Rather than seeing change as a burdensome process you need to keep up with. 
 (Explain what a Growth Mindset means in your own words)
-1.
-2.
-3.
+1.Remind yourself that you chose to be in the position you're currently in, and that at one point this was everything you wanted. 
+2.Life changes for everyone, the biggest difference between people is how we perceive the change. 
+3.Failure is a part of learning, just as much as success is. Enjoy the process because this will lead you to appreciate the opportunities you have. 
 
 
 
