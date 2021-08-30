@@ -18,7 +18,7 @@ def new_func()":
 ```
 > Believe you can, and you're halfway there. -Theodore Roosevelt 
 
-![This is an image] (https://github.com/Jrc2855/reading-notes/blob/main/Stacked%20Stones.jpg)
+![This is an image] (https://images.unsplash.com/photo-1502230831726-fe5549140034?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80)
 
 ### A Growth Mindset means looking at new situations with the mentality of "I have the opportunity to see things changing right in front of me." Rather than seeing change as a burdensome process to keep up with. 
 
