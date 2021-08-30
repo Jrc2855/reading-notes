@@ -1,5 +1,5 @@
 # Intro
-Hello. I'm John, blah blah blah
+Hello. I'm John, blah blah blah here's the link. https://github.com/Jrc2855
 
 Code 102 Reading
 
