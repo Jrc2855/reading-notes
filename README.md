@@ -18,6 +18,8 @@ def new_func()":
 ```
 > Believe you can, and you're halfway there. -Theodore Roosevelt 
 
+![This is an Image](https://github.com/Jrc2855/reading-notes/blob/main/Stacked%20Stones.jpg)
+
 ### Growth Mindset to me means looking at new situations with the mentality of "I have the opportunity to see things changing right in front of me." Rather than seeing change as a burdensome process you need to keep up with. 
 (Explain what a Growth Mindset means in your own words)
 1.Remind yourself that you chose to be in the position you're currently in, and that at one point this was everything you wanted. 
