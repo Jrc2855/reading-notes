@@ -20,9 +20,11 @@ def new_func()":
 
 ### A Growth Mindset means looking at new situations with the mentality of "I have the opportunity to see things changing right in front of me." Rather than seeing change as a burdensome process to keep up with. 
 
-1.Remind yourself that you chose to be in the position you're currently in, and that at one point this was everything you wanted. 
-2.Life changes for everyone, the biggest difference between people is how we perceive the change. 
-3.Failure is a part of learning, just as much as success is. Enjoy the process because this will lead you to appreciate the opportunities you have. 
+1.Remind yourself that you chose to be in the position you're currently in, and that at one point this was everything you wanted. <br>
+
+2.Life changes for everyone, the biggest difference between people is how we perceive the change. <br>
+
+3.Failure is a part of learning, just as much as success is. Enjoy the process because this will lead you to appreciate the opportunities you have. <br>
 
 
 
