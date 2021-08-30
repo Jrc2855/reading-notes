@@ -1,4 +1,4 @@
-# Code 102 REading
+# Code 102 Reading
 
 - Reading 1
 - Reading 2
