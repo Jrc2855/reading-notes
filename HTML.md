@@ -25,4 +25,5 @@ META CHARSET="utf-8" - This is the character set which will provide any standard
 TITLE & /TITLE - This will be the title at the top of your web page, it will also appear in the search tab for your page. <br>
 BODY & /BODY - This is where all of your actual content will go, and will display to your webpage. This will contain your images, videos, links, audio tracks, etc...  
 
-
+## Semantics 
+Semantics is an explanation of the meaning of a piece of code. For example, in HTML H1 wraps around the top level header on your page. 
