@@ -7,7 +7,7 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 - [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/text-editor.md)
 - [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/gitreading.md)
 - [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/HTML.md)
-- [Reading 5](https://github.comJrc2855/reading-notes/blob/main/CSS.md)
+- [Reading 5](https://github.com/Jrc2855/reading-notes/blob/main/CSS.md)
 - Reading 6
 - Reading 7
 - Reading 8
