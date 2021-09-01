@@ -10,3 +10,5 @@ If a project has already been cloned into your terminal, you do not need to clon
 ## Local Structure
 Put simply the structure for your local repository will go from the Working Directory, where you will need to Add it to the Index. After it's received into the index you will need to Commit it to the head, where you can finally Push it to your remote GitHub profile, and it will no longer be stored on your local machine. 
 
+
+[BACK](https://github.com/Jrc2855/reading-notes/blob/main/README.md) 
