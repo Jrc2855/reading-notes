@@ -3,10 +3,10 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 
 ### Code 102 Reading
 
-- Reading 1
+- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/markdown.md)
 - Reading 2
-- Reading 3
-- Reading 4
+- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/gitreading.md)
+- [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/HTML.md)
 - Reading 5
 - Reading 6
 - Reading 7
