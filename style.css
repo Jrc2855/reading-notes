@@ -1,0 +1,22 @@
+body { 
+    background-color:rgb(0, 0, 0)
+}
+
+header, footer, nav, li, #section1, #section2 {
+    border:black 0.5px solid;
+    background-color: rgb(169, 236, 197);
+    color:black;
+    text-align: center;
+}
+
+footer {
+    text-align: left;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+   margin: 0px 40px;
+}
+
+
