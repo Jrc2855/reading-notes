@@ -1,7 +1,7 @@
 ## Introduction
 Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. https://github.com/Jrc2855
 
-### Code 102 Reading
+### Code 102 Reading Notes
 
 - [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/markdown.md)
 - [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/text-editor.md)
@@ -11,6 +11,23 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 - [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/JS-reading.md)
 - Reading 7
 - Reading 8
+
+### Code 201 Reading Notes
+- [Reading 1]()
+- [Reading 2]()
+- [Reading 3]()
+- [Reading 4]()
+- [Reading 5]()
+- [Reading 6]()
+- [Reading 7]()
+- [Reading 8]()
+- [Reading 9]()
+- [Reading 10]()
+- [Reading 11]()
+- [Reading 12]()
+- [Reading 13]()
+- [Reading 14]()
+- [Reading 15]()
 
 ```python
 def new_func()":
