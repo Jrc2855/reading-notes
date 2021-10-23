@@ -26,7 +26,7 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 - [Reading 11]
 - [Reading 12]
 - [Reading 13]
-- [Reading 14]
+- [Reading 14](https://github.com/Jrc2855/reading-notes/blob/main/201-reading14.md)
 - [Reading 15]
 
 ```python
