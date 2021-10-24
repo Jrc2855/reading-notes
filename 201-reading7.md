@@ -2,7 +2,7 @@
 
 ## HTML Tables
 
-You can use Tables within your HTML page to display several different types of information, Stock Prices, Sports Scores, High Score Displays, etc... To display a Table you can use the '<table>' tag to surround all of your other tags you'll need. '<tr>' indicates the start of a row. '<td>' is used for each cell of your table. '<th>' represents the heading of a column. These elements can also be manipulated through the 'rowspan' and 'colspan' attributes, which can make the various cells of a table span more than one row or column. 
+You can use Tables within your HTML page to display several different types of information, Stock Prices, Sports Scores, High Score Displays, etc... To display a Table you can use the 'table' tag to surround all of your other tags you'll need. 'tr' indicates the start of a row. 'td' is used for each cell of your table. 'th' represents the heading of a column. These elements can also be manipulated through the 'rowspan' and 'colspan' attributes, which can make the various cells of a table span more than one row or column. 
 
 ## JS Constructor Functions
 
