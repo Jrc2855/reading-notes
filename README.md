@@ -14,8 +14,8 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 
 ### Code 201 Reading Notes
 - [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/201-reading1.md)
-- [Reading 2](https://github.com/jrc2855/reading-notes/blob/main/201-reading2.md)
-- [Reading 3]
+- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/201-reading2.md)
+- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/201-reading3.md)
 - [Reading 4]
 - [Reading 5]
 - [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/201-reading6.md)
