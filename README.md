@@ -3,30 +3,49 @@ Hello, I'm John. I'm an Air Force Veteran, and happily married father of 3. http
 
 ### Code 102 Reading Notes
 
-- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/markdown.md)
-- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/text-editor.md)
-- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/gitreading.md)
-- [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/HTML.md)
-- [Reading 5](https://github.com/Jrc2855/reading-notes/blob/main/CSS.md)
-- [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/JS-reading.md)
-- Reading 7
+- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/102/markdown.md)
+- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/102/text-editor.md)
+- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/102/gitreading.md)
+- [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/102/HTML.md)
+- [Reading 5](https://github.com/Jrc2855/reading-notes/blob/main/102/CSS.md)
+- [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/102/JS-reading.md)
+- [Reading 7](https://github.com/Jrc2855/reading-notes/blob/main/102/reading7.md)
 - Reading 8
 
 ### Code 201 Reading Notes
-- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/201-reading1.md)
-- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/201-reading2.md)
-- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/201-reading3.md)
-- [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/201-reading4.md)
-- [Reading 5](https://github.com/Jrc2855/reading-notes/blob/main/201-reading5.md)
-- [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/201-reading6.md)
-- [Reading 7](https://github.com/Jrc2855/reading-notes/blob/main/201-reading7.md)
+
+- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading1.md)
+- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading2.md)
+- [Reading 3](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading3.md)
+- [Reading 4](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading4.md)
+- [Reading 5](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading5.md)
+- [Reading 6](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading6.md)
+- [Reading 7](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading7.md)
 - [Reading 8]
 - [Reading 9]
 - [Reading 10]
 - [Reading 11]
 - [Reading 12]
 - [Reading 13]
-- [Reading 14](https://github.com/Jrc2855/reading-notes/blob/main/201-reading14.md)
+- [Reading 14](https://github.com/Jrc2855/reading-notes/blob/main/201/201-reading14.md)
+- [Reading 15]
+
+### Code 301 Reading Notes
+
+- [Reading 1](https://github.com/Jrc2855/reading-notes/blob/main/301/Reading-01.md)
+- [Reading 2](https://github.com/Jrc2855/reading-notes/blob/main/301/Reading-02.md)
+- [Reading 3]
+- [Reading 4]
+- [Reading 5]
+- [Reading 6]
+- [Reading 7]
+- [Reading 8]
+- [Reading 9]
+- [Reading 10]
+- [Reading 11]
+- [Reading 12]
+- [Reading 13]
+- [Reading 14]
 - [Reading 15]
 
 ```python
